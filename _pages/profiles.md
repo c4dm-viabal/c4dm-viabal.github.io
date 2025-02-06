@@ -14,8 +14,8 @@ profiles:
     content: about_aidan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>ENG-405, Centre for Digital Music (C4DM)</p>
-      <p>EECS, Queen Mary University of London</p>
+      <p>ENG-405, C4DM, EECS</p>
+      <p>Queen Mary University of London</p>
       <p>London, E1 4NS, UK</p>
   - align: left
     image: prof_pic.jpg
