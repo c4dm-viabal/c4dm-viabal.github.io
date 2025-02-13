@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>ENG-405, C4DM, EECS</p>
       <p>Queen Mary University of London</p>
-      <p>London, E1 4NS, UK</p>
+      <p>E1 4NS, UK</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
