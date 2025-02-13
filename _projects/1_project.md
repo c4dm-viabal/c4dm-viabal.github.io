@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: HRTF Personalisation
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/HRTF_personalization.png
 importance: 1
 category: work
 related_publications: true
