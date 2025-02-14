@@ -3,7 +3,7 @@
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
       {% if page.permalink != '/' %}
-        <a class="navbar-brand title font-weight-lighter" site.baseurl }}>
+        <a class="container px-md-3" {{site.baseurl }}>
           {% if site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">
@@ -17,7 +17,7 @@
               {{- site.last_name -}}
             {% endif %}
           {% else %}
-            {{<img src="/assets/img/viabal_lcon.svg"> alt="VIABAL"}}
+            {{<img src="/assets/img/viabal_lcon.svg" alt="VIABAL">}}
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
