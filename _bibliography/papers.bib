@@ -29,7 +29,7 @@
   month=nov }
 
 
-@inproceedings{inproceedings,
+@inproceedings{Hu2024,
   author = {Hu, Xuyi and Li, Jian and Picinali, Lorenzo and Hogg, Aidan O. T.},
   year = {2024},
   month = {09},
@@ -41,10 +41,11 @@
   title = {HRTF Spatial Upsampling in the Spherical Harmonics Domain Employing a Generative Adversarial Network}
 }
 
-@article{engel2023the,
-  author={engel isaac and daugintis rapolas and vicente thibault and hogg aidan o. t. and pauwels johan and tournier arnaud j. and picinali lorenzo},
-  journal={journal of the audio engineering society},
-  title={the sonicom hrtf dataset},
+@article{engel2023jaes,
+  author={Engel, Isaac and Daugintis, Rapolas and Vicente, Thibault and Hogg, Aidan~O.~T. and Pauwels, Johan and Tournier, Arnaud~J. and Picinali, Lorenzo},
+  journal={Journal of the Audio Engineering Society},
+  title={The {SONICOM} {HRTF} Dataset},
+  doi={10.17743/jaes.2022.0066},
   year={2023},
   volume={71},
   google_scholar_id={LkGwnXOMwfcC},
@@ -52,4 +53,34 @@
   preview={HRTF_SONICOM.jpeg},
   issue={5},
   pages={241-253},
-  month={may},}
+  month={may},
+  publisher={Audio Engineering Society},
+}
+
+@InProceedings{yu2024aesc,
+  author    = {Yu, Chin-Yun and Pauwels, Johan and Fazekas, György},
+  booktitle = {Proceedings of the 156th Convention of the Audio Engineering Society},
+  title     = {Time-of-arrival Estimation and Phase Unwrapping of Head-related Transfer Functions With Integer Linear Programming},
+  year      = {2024},
+  abstract  = {In binaural audio synthesis, aligning head-related impulse responses (HRIRs) in time has been an important pre-processing step, enabling accurate spatial interpolation and efficient data compression. The maximum correlation time delay between spatially nearby HRIRs has previously been used to get accurate and smooth alignment by solving a matrix equation in which the solution has the minimum Euclidean distance to the time delay. However, the Euclidean criterion could lead to an over-smoothing solution in practice. In this paper, we solve the smoothing issue by formulating the task as solving an integer linear programming problem equivalent to minimising an -norm. Moreover, we incorporate 1) the cross-correlation of inter-aural HRIRs, and 2) HRIRs with their minimum-phase responses to have more reference measurements for optimisation. We show the proposed method can get more accurate alignments than the Euclidean-based method by comparing the spectral reconstruction loss of time-aligned HRIRs using spherical harmonics representation on seven HRIRs consisting of human and dummy heads. The extra correlation features and the L1-norm are also beneficial in extremely noisy conditions. In addition, this method can be applied to phase unwrapping of head-related transfer functions, where the unwrapped phase could be a compact feature for downstream tasks.},
+  selected  = {true},
+}
+
+@InProceedings{pauwels2023aes-icsia,
+  author    = {Pauwels, Johan},
+  booktitle = {Proceedings of the AES International Conference on Spatial and Immersive Audio},
+  year      = {2023},
+  title     = {The Hartufo tookit for machine learning with HRTF data},
+  abstract  = {In this paper, the Hartufo Python toolkit is presented. Its aim is to provide an easy way to manage and preprocess HRTF data into a form that is suitable for use with all major machine learning tools. It consolidates typical boilerplate code into a single reusable library, in the hope that setting up experiments spanning multiple HRTF collections becomes easier, leading to novel insights. Additional benefits include increasing reproducibility and lowering the barrier to entry for machine learning and/or HRTF novices. Available as an open-source public beta, the majority of public HRTF collections are already supported, including auxiliary data such as photos and anthropometric measurements in addition to the auditory data. An overview of the library's functionality is given in this text, ranging from practical examples for end-users to a discussion about the internal concepts of the library for those who want to extend it or interleave it with existing code.},
+  selected  = {true},
+}
+
+@InProceedings{pauwels2023icassp,
+  author    = {Pauwels, Johan and Picinali, Lorenzo},
+  booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year      = {2023},
+  title     = {On The Relevance Of The Differences Between {HRTF} Measurement Setups For Machine Learning},
+  doi       = {10.1109/icassp49357.2023.10096689},
+  publisher = {IEEE},
+  selected  = {true},
+}
