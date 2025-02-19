@@ -5,7 +5,6 @@ description: Microphone arrays and systems, beamforming techniques, direction of
 img:
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 Coming Soon!
