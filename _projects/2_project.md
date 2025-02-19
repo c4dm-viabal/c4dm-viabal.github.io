@@ -1,13 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Acquisition 2
+description: Microphone arrays and systems, beamforming techniques, direction of arrival estimation, 6DoF acoustic data acquisition
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
-
+<!--
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -79,3 +79,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+-->
