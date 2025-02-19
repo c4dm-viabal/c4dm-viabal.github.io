@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Find below a list of publications organised per year
+description: Find below a list of publications from VIABAL organised per year
 nav: true
 nav_order: 4
 ---

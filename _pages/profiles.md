@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of VIABAL
+description: Members of VIABAL
 nav: true
 nav_order: 2
 

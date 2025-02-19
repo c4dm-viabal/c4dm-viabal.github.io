@@ -2,7 +2,7 @@
 layout: page
 permalink: /code/
 title: Code
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Public-facing code releases from VIABAL
 nav: true
 nav_order: 5
 ---
