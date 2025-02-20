@@ -1,0 +1,1 @@
+Johan Pauwels is a Lecturer in Audio Signal Processing and the co-lead for the Virtual, Immersive, Augmented and Binaural Audio Lab (VIABAL) in the Centre for Digital Music (C4DM) at Queen Mary University of London. His current focus is on combining deep learning and signal processing for binaural audio. In addition, he is active in music information retrieval research.
