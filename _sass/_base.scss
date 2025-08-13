@@ -51,6 +51,7 @@ table.table a {
 
 .table-dark {
   background-color: transparent;
+  color: #000;
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
   }
