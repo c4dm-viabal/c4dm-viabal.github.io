@@ -2,7 +2,7 @@
 layout: page
 title: Rendering
 description: Loudspeaker arrays and systems, loudspeaker-based and headphones-based immersive audio simulations, acoustic AR reproduction systems
-img:
+img: assets/img/viabal_rendering.png
 importance: 3
 category: work
 ---
