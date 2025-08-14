@@ -3,6 +3,10 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - ahogg/HRTF-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection
+  - ahogg/Exploring-the-impact-of-transfer-learning-on-GAN-based-HRTF-upsampling
+  - Audio-Experience-Design/LAPChallenge
   - jpauwels/hartufo
   - jpauwels/py3dti
   - jpauwels/lap-task1
+  
