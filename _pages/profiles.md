@@ -25,4 +25,12 @@ profiles:
       <p>Eng:E108, C4DM, EECS</p>
       <p>Queen Mary University of London</p>
       <p>E1 4NS, UK</p>
+  - align: right
+    image: ral-dahiri.png
+    content: about_rashad.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>C4DM, EECS</p>
+      <p>Queen Mary University of London</p>
+      <p>E1 4NS, UK</p>
 ---
