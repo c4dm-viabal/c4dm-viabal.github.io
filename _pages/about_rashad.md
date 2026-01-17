@@ -1,1 +1,3 @@
-Aidan Hogg is a Lecturer in Computer Science and the co-lead for the Virtual, Immersive, Augmented and Binaural Audio Lab (VIABAL) in the Centre for Digital Music (C4DM) at Queen Mary University of London. His research focuses on using deep learning for spatial acoustics and immersive audio. Other research interests include statistical signal processing for audio applications. More information about his current research can be found at: www.aidanhogg.uk.
+Rashad Al-Dahiri is a PhD Student in the Centre for Digital Music (C4DM) at Queen Mary University of London. His research focuses on spatial hearing support for people with hearing impairments.
+
+
