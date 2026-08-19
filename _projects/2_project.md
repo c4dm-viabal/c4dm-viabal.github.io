@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personalised HRTF Upsampling
+title: HRTF Upsampling
 description: Machine-learning methods and international benchmarking for efficient personalised HRTF measurement
 img: assets/img/viabal_acquisition.png
 importance: 1
