@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personalised HRTF Upsampling and the LAP Challenge
+title: Personalised HRTF Upsampling
 description: Machine-learning methods and international benchmarking for efficient personalised HRTF measurement
 img: assets/img/HRTF_personalization.png
 importance: 1
