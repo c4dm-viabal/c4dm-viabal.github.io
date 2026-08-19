@@ -1,8 +1,8 @@
 ---
 layout: page
-title: HRTF Upsampling
+title: Personalised HRTF Upsampling and the LAP Challenge
 description: Machine-learning methods and international benchmarking for efficient personalised HRTF measurement
-img: assets/img/viabal_acquisition.png
+img: assets/img/HRTF_personalization.png
 importance: 1
 category: work
 ---
@@ -11,7 +11,7 @@ Personalised head-related transfer functions (HRTFs) can improve spatial localis
 
 This research has progressed from generative adversarial networks operating on spatial and spherical-harmonic representations, through denoising and autoencoder-based approaches, to spatially aware transformer architectures. The work considers not only spectral reconstruction accuracy, but also spatial consistency and perceptually relevant evaluation.
 
-VIABAL also played a central role in organising the [Listener Acoustic Personalisation Challenge 2024 (LAP24)](https://www.sonicom.eu/lap-challenge/). LAP24 established an international benchmark through which algorithmic and machine-learning approaches could be compared using common datasets, metrics and perceptual evaluation.
+I also played a central role in organising the [Listener Acoustic Personalisation Challenge 2024 (LAP24)](https://www.sonicom.eu/lap-challenge/), serving as Chair of Website and Dissemination and contributing to the design, delivery and evaluation of its HRTF-upsampling task. LAP24 established an international benchmark through which algorithmic and machine-learning approaches could be compared using common datasets, metrics and perceptual evaluation.
 
 ## Selected publications
 
