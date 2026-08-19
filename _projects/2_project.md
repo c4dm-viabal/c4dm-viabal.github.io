@@ -41,7 +41,7 @@ VIABAL also played a central role in organising the [Listener Acoustic Personali
   [Paper](https://doi.org/10.1109/TASLP.2024.3375635)
 
 - **HRTF Spatial Upsampling in the Spherical Harmonics Domain Employing a Generative Adversarial Network**  
-  *International Conference on Digital Audio Effects (DAFx)*, 2024.
+  *International Conference on Digital Audio Effects (DAFx)*, 2024.  
   [Paper](https://dafx.de/paper-archive/2024/papers/DAFx24_paper_10.pdf)
 
 [View related publications on the VIABAL website](https://viabal.eecs.qmul.ac.uk/publications/)
