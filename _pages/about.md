@@ -11,4 +11,4 @@ social: false # includes social icons at the bottom of the page
 
 <img style="display: block; margin: auto; width: 100%;" src="/assets/img/turret.jpg"/>
 
-VIABAL is part of the [Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/) at [Queen Mary University of London](https://www.qmul.ac.uk/). We're a group of people united by an interest in spatial audio in all its guises. We perform research at the intersection of signal processing, machine learning, acoustics and perception.
+VIABAL is part of the [Centre for Digital Music](https://c4dm.eecs.qmul.ac.uk/) at [Queen Mary University of London](https://www.qmul.ac.uk/). We're a group of people united by an interest in spatial audio in all its guises. We perform research at the intersection of signal processing, machine learning, acoustics and perception.
