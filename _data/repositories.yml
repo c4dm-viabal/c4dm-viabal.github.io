@@ -1,11 +1,26 @@
 github_users:
 
-repo_description_lines_max: 2
-
 github_repos:
-  - ahogg/HRTF-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection
-  - ahogg/Exploring-the-impact-of-transfer-learning-on-GAN-based-HRTF-upsampling
-  - Audio-Experience-Design/LAPChallenge
-  - jpauwels/hartufo
-  - jpauwels/py3dti
-  - jpauwels/lap-task1
+  - slug: ahogg/HRTF-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection
+    title: GAN-Based HRTF Upsampling
+    description: Code for HRTF upsampling using a generative adversarial network and a gnomonic equiangular projection.
+
+  - slug: ahogg/Exploring-the-impact-of-transfer-learning-on-GAN-based-HRTF-upsampling
+    title: Transfer Learning for HRTF Upsampling
+    description: Experiments exploring the effect of transfer learning on GAN-based HRTF upsampling.
+
+  - slug: Audio-Experience-Design/LAPChallenge
+    title: Listener Acoustic Personalisation Challenge
+    description: Datasets, evaluation tools and supporting code for the Listener Acoustic Personalisation Challenge.
+
+  - slug: jpauwels/hartufo
+    title: Hartufo
+    description: A Python toolkit for accessing and preparing HRTF datasets for data-driven research.
+
+  - slug: jpauwels/py3dti
+    title: py3dti
+    description: Tools for binaural audio rendering in Python.
+
+  - slug: jpauwels/lap-task1
+    title: LAP Task 1
+    description: An evaluation tool for HRTF dataset harmonisation.
