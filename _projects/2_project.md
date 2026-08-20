@@ -16,32 +16,32 @@ I also played a central role in organising the [Listener Acoustic Personalisatio
 ## Selected publications
 
 - **HRTFformer: A Spatially-Aware Transformer for Individual HRTF Upsampling in Immersive Audio Rendering**  
-  *IEEE Transactions on Multimedia*, 2026.  
+  _IEEE Transactions on Multimedia_, 2026.  
   [Paper](https://ieeexplore.ieee.org/document/11656825)
 
 - **Listener Acoustic Personalisation Challenge LAP24: Perceptual Evaluation of HRTF Upsampling**  
-  *EAA Forum Acusticum, European Congress on Acoustics*, 2026.
+  _EAA Forum Acusticum, European Congress on Acoustics_, 2026.
 
 - **A Machine Learning Approach for Denoising and Upsampling HRTFs**  
-  *European Signal Processing Conference (EUSIPCO)*, 2025.  
+  _European Signal Processing Conference (EUSIPCO)_, 2025.  
   [Paper](https://ieeexplore.ieee.org/document/11226138)
 
 - **Listener Acoustic Personalisation Challenge – LAP24: Head-Related Transfer Function Upsampling**  
-  *IEEE Open Journal of Signal Processing*, 2025.  
+  _IEEE Open Journal of Signal Processing_, 2025.  
   [Paper](https://ieeexplore.ieee.org/document/11078906) ·
   [Challenge](https://www.sonicom.eu/lap-challenge/) ·
   [Code](https://github.com/Audio-Experience-Design/LAPChallenge)
 
 - **Head-Related Transfer Function Upsampling Using an Autoencoder-Based Generative Adversarial Network with Evaluation Framework**  
-  *Journal of the Audio Engineering Society*, 2025.  
+  _Journal of the Audio Engineering Society_, 2025.  
   [Paper](https://aes2.org/publications/elibrary-page/?id=22954)
 
 - **HRTF Upsampling With a Generative Adversarial Network Using a Gnomonic Equiangular Projection**  
-  *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, 2024.  
+  _IEEE/ACM Transactions on Audio, Speech, and Language Processing_, 2024.  
   [Paper](https://doi.org/10.1109/TASLP.2024.3375635)
 
 - **HRTF Spatial Upsampling in the Spherical Harmonics Domain Employing a Generative Adversarial Network**  
-  *International Conference on Digital Audio Effects (DAFx)*, 2024.  
+  _International Conference on Digital Audio Effects (DAFx)_, 2024.  
   [Paper](https://dafx.de/paper-archive/2024/papers/DAFx24_paper_10.pdf)
 
 [View related publications on the VIABAL website](https://viabal.eecs.qmul.ac.uk/publications/)
