@@ -11,7 +11,7 @@ Personalised head-related transfer functions (HRTFs) can improve spatial localis
 
 This research has progressed from generative adversarial networks operating on spatial and spherical-harmonic representations, through denoising and autoencoder-based approaches, to spatially aware transformer architectures. The work considers not only spectral reconstruction accuracy, but also spatial consistency and perceptually relevant evaluation.
 
-I also played a central role in organising the [Listener Acoustic Personalisation Challenge 2024 (LAP24)](https://www.sonicom.eu/lap-challenge/), serving as Chair of Website and Dissemination and contributing to the design, delivery and evaluation of its HRTF-upsampling task. LAP24 established an international benchmark through which algorithmic and machine-learning approaches could be compared using common datasets, metrics and perceptual evaluation.
+I also played a central role in organising the [Listener Acoustic Personalisation Challenge 2024 (LAP24)](https://www.imperial.ac.uk/sonicom/lap-challenge/), serving as Chair of Website and Dissemination and contributing to the design, delivery and evaluation of its HRTF-upsampling task. LAP24 established an international benchmark through which algorithmic and machine-learning approaches could be compared using common datasets, metrics and perceptual evaluation.
 
 ## Selected publications
 
@@ -28,8 +28,8 @@ I also played a central role in organising the [Listener Acoustic Personalisatio
 
 - **Listener Acoustic Personalisation Challenge – LAP24: Head-Related Transfer Function Upsampling**  
   _IEEE Open Journal of Signal Processing_, 2025.  
-  [Paper](https://ieeexplore.ieee.org/document/11078906) ·
-  [Challenge](https://www.imperial.ac.uk/sonicom/lap-challenge/) ·
+  [Paper](https://ieeexplore.ieee.org/document/11078906) 
+  [Challenge](https://www.imperial.ac.uk/sonicom/lap-challenge/) 
   [Code](https://github.com/Audio-Experience-Design/LAPChallenge)
 
 - **Head-Related Transfer Function Upsampling Using an Autoencoder-Based Generative Adversarial Network with Evaluation Framework**  
