@@ -28,8 +28,8 @@ I also played a central role in organising the [Listener Acoustic Personalisatio
 
 - **Listener Acoustic Personalisation Challenge – LAP24: Head-Related Transfer Function Upsampling**  
   _IEEE Open Journal of Signal Processing_, 2025.  
-  [Paper](https://ieeexplore.ieee.org/document/11078906) 
-  [Challenge](https://www.imperial.ac.uk/sonicom/lap-challenge/) 
+  [Paper](https://ieeexplore.ieee.org/document/11078906) . 
+  [Challenge](https://www.imperial.ac.uk/sonicom/lap-challenge/) . 
   [Code](https://github.com/Audio-Experience-Design/LAPChallenge)
 
 - **Head-Related Transfer Function Upsampling Using an Autoencoder-Based Generative Adversarial Network with Evaluation Framework**  
