@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://c4dm-viabal.github.io/sitemap.xml
+Sitemap: https://viabal.eecs.qmul.ac.uk/sitemap.xml
