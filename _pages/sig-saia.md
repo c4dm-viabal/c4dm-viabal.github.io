@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<img src="{{'https://viabal.eecs.qmul.ac.uk/assets/img/SIG-SAIA.jpg'}}" alt="Dome of loudspeakers" style="display: block; width: 100%; aspect-ratio: 2 / 1; object-fit: cover; object-position: center 30%; border-radius: 0.25rem; margin-bottom: 1.5rem;">
+<img src="/assets/img/SIG-SAIA.jpg" alt="Dome of loudspeakers" style="display: block; width: 100%; aspect-ratio: 2 / 1; object-fit: cover; object-position: center 30%; border-radius: 0.25rem; margin-bottom: 1.5rem;">
 
 The Special Interest Group in Spatial Acoustics and Immersive Audio (SIG-SAIA) brings together researchers, practitioners and end-users from academia and industry who work on the spatial side of audio and acoustics.
 
