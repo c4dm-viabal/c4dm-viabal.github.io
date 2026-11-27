@@ -2,14 +2,16 @@
 layout: page
 title: SIG-SAIA
 permalink: /sig-saia/
-description: UK Acoustics Network Special Interest Group in Spatial Acoustics and Immersive Audio
+description: Special Interest Group in Spatial Acoustics and Immersive Audio
 nav: true
 nav_order: 6
 ---
 
-<!-- Replace "sig-saia" below with the real Google Group name once it's created. -->
+<img src="{{ '/assets/img/SIG-SAIA.jpg' | relative_url }}" alt="Silhouette of a listener facing a dome of loudspeakers" style="display: block; width: 100%; aspect-ratio: 2 / 1; object-fit: cover; object-position: center 30%; border-radius: 0.25rem; margin-bottom: 1.5rem;">
 
-The Special Interest Group in Spatial Acoustics and Immersive Audio (SIG-SAIA) is part of the [UK Acoustics Network (UKAN)](https://acoustics.ac.uk/sigs/spatial-acoustics-and-immersive-audio/). It brings together researchers, practitioners and end-users from academia and industry who work on the spatial side of audio and acoustics.
+The Special Interest Group in Spatial Acoustics and Immersive Audio (SIG-SAIA) brings together researchers, practitioners and end-users from academia and industry who work on the spatial side of audio and acoustics.
+
+SIG-SAIA started as a special interest group within the [UK Acoustics Network (UKAN)](https://acoustics.ac.uk/) and now runs as an independent group.
 
 ## Join the mailing list
 
@@ -29,7 +31,7 @@ To leave, send a blank email to [sig-saia+unsubscribe@googlegroups.com](mailto:s
 
 ## What we do
 
-We run topic-focused meet-ups for members, a yearly workshop or showcase, and a seminar series. We also organise joint events with other UKAN SIGs and with groups such as Immerse UK, the AES, the IEEE and the Institute of Acoustics, along with training events aimed at early-career researchers.
+We run topic-focused meet-ups for members, a yearly workshop or showcase, and a seminar series. We also organise joint events with groups such as Immerse UK, the AES, the IEEE and the Institute of Acoustics, along with training events aimed at early-career researchers.
 
 ## Coordinators
 
