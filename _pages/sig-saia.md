@@ -118,10 +118,17 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
 ## Partner initiatives
 
 <div class="partner">
-  <h3>SPECk: the Spatial Ear Club</h3>
-  <p class="partner-meta">Run by the Audio Experience Design group at Imperial College London. </p>
-  <p>A monthly seminar and discussion series on spatial acoustics, spatial hearing and immersive audio, inspired by Erv Hafter’s Ear Club at UC Berkeley. It’s an informal space for researchers at all career stages to share their work, and it welcomes ideas, work in progress and planned experiments as well as finished studies, so you can get feedback from the community before running a study.</p>
-  <p class="partner-links"><a href="https://www.axdesign.co.uk/spatial-ear-club">Find out more</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5NUkAmWjb1_ERUkDQtvc1Nw7GltYiSrMV6lgvAvoJnxjoog/viewform">sign up to present</a>.</p>
+  <div class="row">
+    <div class="col-sm-5 partner-image">
+      <img src="/assets/img/speck_spatial_ear_club.jpg" alt="SPECk Spatial Ear Club logo over illustrations of four ears" class="img-fluid rounded" data-zoomable loading="lazy">
+    </div>
+    <div class="col-sm-7 partner-body">
+      <h3>SPECk: the Spatial Ear Club</h3>
+      <p class="partner-meta">Run by the Audio Experience Design group at Imperial College London.</p>
+      <p>A monthly seminar and discussion series on spatial acoustics, spatial hearing and immersive audio, inspired by Erv Hafter’s Ear Club at UC Berkeley. It’s an informal space for researchers at all career stages to share their work, and it welcomes ideas, work in progress and planned experiments as well as finished studies, so you can get feedback from the community before running a study.</p>
+      <p class="partner-links"><a href="https://www.axdesign.co.uk/spatial-ear-club">Find out more</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5NUkAmWjb1_ERUkDQtvc1Nw7GltYiSrMV6lgvAvoJnxjoog/viewform">sign up to present</a>.</p>
+    </div>
+  </div>
 </div>
 
 ## Past meet-ups
@@ -132,7 +139,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
   article h2 { margin-top: 2.25rem; margin-bottom: 0.75rem; }
   .meetup { margin-top: 2rem; }
   .meetup + .meetup { margin-top: 2.5rem; padding-top: 2.5rem; border-top: 1px solid var(--global-divider-color); }
-  .meetup-body, .event-body, .job-body { margin-top: 1.25rem; }
+  .meetup-body, .event-body, .job-body, .partner-body { margin-top: 1.25rem; }
   .meetup-body h3 { font-size: 1.15rem; margin: 0 0 0.3rem; }
   .meetup-date { color: var(--global-text-color-light); margin-bottom: 0.9rem; }
   .meetup-text { margin-bottom: 1.1rem; }
@@ -150,11 +157,11 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
   .job details ul { margin: 0.9rem 0 0.5rem; }
   .job details li { margin-bottom: 0.45rem; }
   .job-apply, .event-register, .partner-links { margin: 1rem 0 0; }
-  .event-body p:last-child, .job-body p:last-child { margin-bottom: 0; }
+  .event-body p:last-child, .job-body p:last-child, .partner-body p:last-child { margin-bottom: 0; }
   .meetup-photos img, .meetup-photos video { width: 100%; margin-bottom: 1.5rem; }
   @media (min-width: 576px) {
-    .meetup-image, .event-image, .job-image { padding-right: 1.5rem; }
-    .meetup-body, .event-body, .job-body { margin-top: 0; padding-left: 1.5rem; }
+    .meetup-image, .event-image, .job-image, .partner-image { padding-right: 1.5rem; }
+    .meetup-body, .event-body, .job-body, .partner-body { margin-top: 0; padding-left: 1.5rem; }
   }
 </style>
 
