@@ -339,6 +339,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
             <img src="/assets/img/SAIA1-1024x768.png" alt="Attendees touring the Imperial College London acoustics lab" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
         </div>
+        <p class="meetup-credit">Photo by Aidan Hogg.</p>
       </details>
     </div>
   </div>
