@@ -119,7 +119,7 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
 
 <div class="partner">
   <h3>SPECk: the Spatial Ear Club</h3>
-  <p class="partner-meta">Run by the Audio Experience Design group at Imperial College London. Dates to be announced</p>
+  <p class="partner-meta">Run by the Audio Experience Design group at Imperial College London. </p>
   <p>A monthly seminar and discussion series on spatial acoustics, spatial hearing and immersive audio, inspired by Erv Hafter’s Ear Club at UC Berkeley. It’s an informal space for researchers at all career stages to share their work, and it welcomes ideas, work in progress and planned experiments as well as finished studies, so you can get feedback from the community before running a study.</p>
   <p class="partner-links"><a href="https://www.axdesign.co.uk/spatial-ear-club">Find out more</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5NUkAmWjb1_ERUkDQtvc1Nw7GltYiSrMV6lgvAvoJnxjoog/viewform">sign up to present</a>.</p>
 </div>
