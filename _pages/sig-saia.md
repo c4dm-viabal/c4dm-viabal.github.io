@@ -22,8 +22,6 @@ You can join in either of the following ways:
 - **With a Google account:** sign in, visit [groups.google.com/g/sig-saia/about](https://groups.google.com/g/sig-saia/about) and click **Join group**.
 - **Without a Google account:** send a blank email to [sig-saia+subscribe@googlegroups.com](mailto:sig-saia+subscribe@googlegroups.com) from the address you wish to subscribe, then reply to the confirmation email.
 
-If you have already joined the Google Group, you don't need to join again.
-
 To leave, send a blank email to [sig-saia+unsubscribe@googlegroups.com](mailto:sig-saia+unsubscribe@googlegroups.com) or use the link at the bottom of any list email.
 
 ## What we cover
