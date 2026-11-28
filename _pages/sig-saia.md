@@ -64,29 +64,51 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
   <p class="job-apply"><a href="https://qmul-jobs.tal.net/vx/lang-en-GB/mobile-1/appcentre-1/brand-4/user-155681/candidate/so/pm/1/pl/3/opp/11997-Postdoctoral-Research-Associate/en-GB">Apply on the Queen Mary jobs site</a>. For informal enquiries, email <a href="mailto:a.hogg@qmul.ac.uk">a.hogg@qmul.ac.uk</a>.</p>
 </div>
 <p class="no-jobs" hidden>There are no open positions at the moment. New vacancies are announced on the mailing list.</p>
-<script>
-  (function () {
-    var now = new Date();
-    var open = 0;
-    document.querySelectorAll(".job[data-closes]").forEach(function (job) {
-      var closes = new Date(job.getAttribute("data-closes") + "T23:59:59");
-      if (now > closes) { job.hidden = true; } else { open++; }
-    });
-    if (!open) { document.querySelector(".no-jobs").hidden = false; }
-  })();
-</script>
 
 ## Upcoming events
 
-There are no upcoming events at the moment. New meet-ups are announced on the [mailing list](https://groups.google.com/g/sig-saia/about).
-
-<!-- To add an event, replace the sentence above with a block like this one:
-<div class="event">
-  <h3>Event title</h3>
-  <p class="event-meta">Venue, date</p>
-  <p>A sentence or two about the event and how to register.</p>
+<div class="event" data-ends="2027-01-27">
+  <div class="row">
+    <div class="col-sm-5 event-image">
+      <img src="/assets/img/picinali_inaugural_2027.jpg" alt="Imperial Inaugurals: Blending the real with virtual, Professor Lorenzo Picinali, Dyson School of Design Engineering, Wednesday 27 January" class="img-fluid rounded" data-zoomable loading="lazy">
+    </div>
+    <div class="col-sm-7 event-body">
+      <h3>Blending the real with the virtual</h3>
+      <p class="event-meta">Inaugural lecture by Prof Lorenzo Picinali. Wednesday 27 January 2027, 17:30–18:30 GMT</p>
+      <p>Spatial audio can already make virtual sounds played over headphones seem to come from the room around us. In his inaugural lecture, Lorenzo looks at why making this convincing outside the lab means adapting to both the space and the individual listener, and how listeners can in turn learn new ways of hearing.</p>
+      <p>Lecture Theatre 200, City and Guilds Building, Imperial College London South Kensington Campus, or online. Seats in the lecture theatre are allocated on a first-come, first-served basis.</p>
+      <p class="event-register"><a href="https://www.imperial.ac.uk/events/216675/blending-the-real-with-the-virtual/">Register on the Imperial website</a></p>
+    </div>
+  </div>
 </div>
--->
+
+<p class="no-events" hidden>There are no upcoming events at the moment. New meet-ups are announced on the <a href="https://groups.google.com/g/sig-saia/about">mailing list</a>.</p>
+
+<!-- To add an event, copy the "event" block above and change the details. data-ends is the event date:
+     the event hides itself after that day, and the "no upcoming events" message shows when none are left. -->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var now = new Date();
+    function hideExpired(selector, attribute, emptyMessage) {
+      var open = 0;
+      document.querySelectorAll(selector).forEach(function (item) {
+        var end = new Date(item.getAttribute(attribute) + "T23:59:59");
+        if (now > end) {
+          item.hidden = true;
+        } else {
+          open++;
+        }
+      });
+      var message = document.querySelector(emptyMessage);
+      if (!open && message) {
+        message.hidden = false;
+      }
+    }
+    hideExpired(".job[data-closes]", "data-closes", ".no-jobs");
+    hideExpired(".event[data-ends]", "data-ends", ".no-events");
+  });
+</script>
 
 ## Past meet-ups
 
@@ -96,7 +118,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
   article h2 { margin-top: 2.25rem; margin-bottom: 0.75rem; }
   .meetup { margin-top: 2rem; }
   .meetup + .meetup { margin-top: 2.5rem; padding-top: 2.5rem; border-top: 1px solid var(--global-divider-color); }
-  .meetup-body { margin-top: 1.25rem; }
+  .meetup-body, .event-body { margin-top: 1.25rem; }
   .meetup-body h3 { font-size: 1.15rem; margin: 0 0 0.3rem; }
   .meetup-date { color: var(--global-text-color-light); margin-bottom: 0.9rem; }
   .meetup-text { margin-bottom: 1.1rem; }
@@ -113,11 +135,12 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
   .job summary { cursor: pointer; color: var(--global-theme-color); }
   .job details ul { margin: 0.9rem 0 0.5rem; }
   .job details li { margin-bottom: 0.45rem; }
-  .job-apply { margin: 1rem 0 0; }
+  .job-apply, .event-register { margin: 1rem 0 0; }
+  .event-body p:last-child { margin-bottom: 0; }
   .meetup-photos img, .meetup-photos video { width: 100%; margin-bottom: 1.5rem; }
   @media (min-width: 576px) {
-    .meetup-image { padding-right: 1.5rem; }
-    .meetup-body { margin-top: 0; padding-left: 1.5rem; }
+    .meetup-image, .event-image { padding-right: 1.5rem; }
+    .meetup-body, .event-body { margin-top: 0; padding-left: 1.5rem; }
   }
 </style>
 
