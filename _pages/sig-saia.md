@@ -76,7 +76,6 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
   })();
 </script>
 
-
 ## Upcoming events
  
 There are no upcoming events at the moment. New meet-ups are announced on the [mailing list](https://groups.google.com/g/sig-saia/about).
