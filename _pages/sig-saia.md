@@ -38,7 +38,7 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
 - [Prof Lorenzo Picinali](https://profiles.imperial.ac.uk/l.picinali), Imperial College London
 - [Dr Aidan Hogg](https://aidanhogg.uk/), Queen Mary University of London
 - [Prof Filippo Fazi](https://www.southampton.ac.uk/vaae/about/staff/fmf205_ffazi.page), University of Southampton (ISVR)
-- Dr Jacob Hollebon, Audioscenic
+- [Dr Jacob Hollebon](https://www.linkedin.com/in/jakehollebon/), Audioscenic
 
 ## Jobs
  
@@ -72,12 +72,25 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
   })();
 </script>
 
+
+## Upcoming events
+ 
+There are no upcoming events at the moment. New meet-ups are announced on the [mailing list](#join-the-mailing-list).
+ 
+<!-- To add an event, replace the sentence above with a block like this one:
+<div class="event">
+  <h3>Event title</h3>
+  <p class="event-meta">Venue, date</p>
+  <p>A sentence or two about the event and how to register.</p>
+</div>
+-->
+
 ## Past meet-ups
 
 Our in-person meet-ups combine short member talks with visits to labs, venues, and industry partners.
 
-
 <style>
+  article h2 { margin-top: 2.25rem; margin-bottom: 0.75rem; }
   .meetup { margin-top: 2rem; }
   .meetup + .meetup { margin-top: 2.5rem; padding-top: 2.5rem; border-top: 1px solid var(--global-divider-color); }
   .meetup-body { margin-top: 1.25rem; }
@@ -91,9 +104,9 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
   .meetup details li.meetup-sub { list-style: none; margin: 0.9rem 0 0.45rem -1rem; font-weight: bold; }
   .meetup-credit { font-size: 0.9rem; color: var(--global-text-color-light); margin: 0.75rem 0 0.5rem; }
   .meetup-photos { margin-top: 0.9rem; }
-  .job { border: 1px solid var(--global-divider-color); border-radius: 0.5rem; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
-  .job h3 { font-size: 1.15rem; margin: 0 0 0.3rem; }
-  .job-meta { color: var(--global-text-color-light); margin-bottom: 0.9rem; }
+  .job, .event { border: 1px solid var(--global-divider-color); border-radius: 0.5rem; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
+  .job h3, .event h3 { font-size: 1.15rem; margin: 0 0 0.3rem; }
+  .job-meta, .event-meta { color: var(--global-text-color-light); margin-bottom: 0.9rem; }
   .job summary { cursor: pointer; color: var(--global-theme-color); }
   .job details ul { margin: 0.9rem 0 0.5rem; }
   .job details li { margin-bottom: 0.45rem; }
