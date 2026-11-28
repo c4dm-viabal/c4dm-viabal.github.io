@@ -325,4 +325,5 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
       </details>
     </div>
   </div>
+ 
 </div>
