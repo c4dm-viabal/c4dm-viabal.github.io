@@ -124,7 +124,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
 <div class="meetup">
   <div class="row">
     <div class="col-sm-5 meetup-image">
-      <img src="/assets/img/Yamaha_2026.jpeg" alt="Group photo at Yamaha Music London, November 2026" class="img-fluid rounded z-depth-1" loading="lazy">
+      <img src="/assets/img/Yamaha_2026.jpeg" alt="Group photo at Yamaha Music London, November 2026" class="img-fluid rounded z-depth-1" data-zoomable loading="lazy">
     </div>
     <div class="col-sm-7 meetup-body">
       <h3>Queen Mary University of London and Yamaha Music London</h3>
@@ -155,16 +155,16 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
         <summary>Photos and video</summary>
         <div class="row meetup-photos">
           <div class="col-6">
-            <img src="/assets/img/Yamaha_2026_qm_talk.jpg" alt="A talk at Queen Mary University of London" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/Yamaha_2026_qm_talk.jpg" alt="A talk at Queen Mary University of London" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/Yamaha_2026_sound_xr_session.jpg" alt="The Sound xR session at Yamaha Music London" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/Yamaha_2026_sound_xr_session.jpg" alt="The Sound xR session at Yamaha Music London" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/Yamaha_2026_sound_xr.jpg" alt="Attendees exploring the How To Build An Orchestra installation at Yamaha Music London" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/Yamaha_2026_sound_xr.jpg" alt="Attendees exploring the How To Build An Orchestra installation at Yamaha Music London" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/Yamaha_2026_sound_xr_software.jpg" alt="Sound xR software on screen in a Yamaha demo room" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/Yamaha_2026_sound_xr_software.jpg" alt="Sound xR software on screen in a Yamaha demo room" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
             <video src="/assets/img/Yamaha_2026_sound_xr.mp4" poster="/assets/img/Yamaha_2026_sound_xr_poster.jpg" controls preload="none" playsinline class="rounded" aria-label="Video of the How To Build An Orchestra installation at Yamaha Music London"></video>
@@ -178,7 +178,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
 <div class="meetup">
   <div class="row">
     <div class="col-sm-5 meetup-image">
-      <img src="/assets/img/kef_2025.webp" alt="Group photo at the KEF Music Gallery, February 2025" class="img-fluid rounded z-depth-1" loading="lazy">
+      <img src="/assets/img/kef_2025.webp" alt="Group photo at the KEF Music Gallery, February 2025" class="img-fluid rounded z-depth-1" data-zoomable loading="lazy">
     </div>
     <div class="col-sm-7 meetup-body">
       <h3>KEF Music Gallery, London</h3>
@@ -201,22 +201,22 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
         <summary>Photos</summary>
         <div class="row meetup-photos">
           <div class="col-6">
-            <img src="/assets/img/kef_2025_gallery_tour.jpg" alt="Attendees touring the KEF Music Gallery" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/kef_2025_gallery_tour.jpg" alt="Attendees touring the KEF Music Gallery" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/kef_2025_demo_room.jpg" alt="Attendees in a KEF demo room" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/kef_2025_demo_room.jpg" alt="Attendees in a KEF demo room" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/kef_2025_equipment_racks.jpg" alt="A member of the KEF team explaining a bank of equipment racks" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/kef_2025_equipment_racks.jpg" alt="A member of the KEF team explaining a bank of equipment racks" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/image3-scaled.webp" alt="A listening room at the KEF Music Gallery" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/image3-scaled.webp" alt="A listening room at the KEF Music Gallery" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/kef_2025_living_room.jpg" alt="A listening session in the KEF Living Room" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/kef_2025_living_room.jpg" alt="A listening session in the KEF Living Room" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/kef_2025_afternoon_talk.jpg" alt="A presentation during the afternoon session" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/kef_2025_afternoon_talk.jpg" alt="A presentation during the afternoon session" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
         </div>
         <p class="meetup-credit">Photos by Aidan Hogg and Chin-Yun Yu.</p>
@@ -227,7 +227,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
 <div class="meetup">
   <div class="row">
     <div class="col-sm-5 meetup-image">
-      <img src="/assets/img/ROH_2024.jpg" alt="Group photo at Queen Mary University of London, May 2024" class="img-fluid rounded z-depth-1" loading="lazy">
+      <img src="/assets/img/ROH_2024.jpg" alt="Group photo at Queen Mary University of London, May 2024" class="img-fluid rounded z-depth-1" data-zoomable loading="lazy">
     </div>
     <div class="col-sm-7 meetup-body">
       <h3>Queen Mary University of London and the Royal Opera House</h3>
@@ -256,31 +256,31 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
         <summary>Photos</summary>
         <div class="row meetup-photos">
           <div class="col-6">
-            <img src="/assets/img/ROH_2024_control_room.jpg" alt="Royal Opera House staff showing a dummy head microphone in a control room" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/ROH_2024_control_room.jpg" alt="Royal Opera House staff showing a dummy head microphone in a control room" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/20240510_153036-scaled.jpg" alt="Attendees in the Royal Opera House orchestra pit" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/20240510_153036-scaled.jpg" alt="Attendees in the Royal Opera House orchestra pit" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/ROH_2024_auditorium.jpg" alt="The Royal Opera House auditorium seen from the orchestra pit" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/ROH_2024_auditorium.jpg" alt="The Royal Opera House auditorium seen from the orchestra pit" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/20240510_153828-scaled.jpg" alt="The Royal Opera House stage seen from the auditorium" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/20240510_153828-scaled.jpg" alt="The Royal Opera House stage seen from the auditorium" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/20240510_154640-scaled.jpg" alt="Scenery and lighting rigs backstage at the Royal Opera House" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/20240510_154640-scaled.jpg" alt="Scenery and lighting rigs backstage at the Royal Opera House" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/20240510_154748-scaled.jpg" alt="The Royal Opera House stage from backstage" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/20240510_154748-scaled.jpg" alt="The Royal Opera House stage from backstage" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/ROH_2024_paul_hamlyn_hall.jpg" alt="The Paul Hamlyn Hall at the Royal Opera House" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/ROH_2024_paul_hamlyn_hall.jpg" alt="The Paul Hamlyn Hall at the Royal Opera House" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/20240510_160223-scaled.jpg" alt="Attendees in the Royal Opera House broadcast control room" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/20240510_160223-scaled.jpg" alt="Attendees in the Royal Opera House broadcast control room" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
           <div class="col-6">
-            <img src="/assets/img/20240510_163854-scaled.jpg" alt="Mixing desk in the Royal Opera House broadcast suite" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/20240510_163854-scaled.jpg" alt="Mixing desk in the Royal Opera House broadcast suite" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
         </div>
         <p class="meetup-credit">Photos by Aidan Hogg and Chin-Yun Yu.</p>
@@ -291,7 +291,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
 <div class="meetup">
   <div class="row">
     <div class="col-sm-5 meetup-image">
-      <img src="/assets/img/SAIA_2023.png" alt="Group photo at Imperial College London, April 2023" class="img-fluid rounded z-depth-1" loading="lazy">
+      <img src="/assets/img/SAIA_2023.png" alt="Group photo at Imperial College London, April 2023" class="img-fluid rounded z-depth-1" data-zoomable loading="lazy">
     </div>
     <div class="col-sm-7 meetup-body">
       <h3>Imperial College London and Sonos</h3>
@@ -313,7 +313,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
         <summary>Photos</summary>
         <div class="row meetup-photos">
           <div class="col-6">
-            <img src="/assets/img/SAIA1-1024x768.png" alt="Attendees touring the Imperial College London acoustics lab" class="img-fluid rounded" loading="lazy">
+            <img src="/assets/img/SAIA1-1024x768.png" alt="Attendees touring the Imperial College London acoustics lab" class="img-fluid rounded" data-zoomable loading="lazy">
           </div>
         </div>
       </details>
@@ -323,7 +323,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
 <div class="meetup">
   <div class="row">
     <div class="col-sm-5 meetup-image">
-      <img src="/assets/img/l-acoustics_2022.jpeg" alt="Group photo at the L-Acoustics London showroom, June 2022" class="img-fluid rounded z-depth-1" loading="lazy">
+      <img src="/assets/img/l-acoustics_2022.jpeg" alt="Group photo at the L-Acoustics London showroom, June 2022" class="img-fluid rounded z-depth-1" data-zoomable loading="lazy">
     </div>
     <div class="col-sm-7 meetup-body">
       <h3>L-Acoustics Showroom, London</h3>
