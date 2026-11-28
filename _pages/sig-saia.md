@@ -17,8 +17,12 @@ SIG-SAIA started as a special interest group within the [UK Acoustics Network (U
 
 The SIG-SAIA mailing list is a Google Group. Members receive announcements about meet-ups, seminars, workshops, jobs and calls for papers, and can post to the list.
 
-- **With a Google account:** go to [groups.google.com/g/sig-saia](https://groups.google.com/g/sig-saia) and click **Join group**.
-- **Without a Google account:** send a blank email to [sig-saia+subscribe@googlegroups.com](mailto:sig-saia+subscribe@googlegroups.com) from the address you want to use, then reply to the confirmation email.
+You can join in either of the following ways:
+
+- **With a Google account:** sign in, visit [groups.google.com/g/sig-saia/about](https://groups.google.com/g/sig-saia/about) and click **Join group**.
+- **Without a Google account:** send a blank email to [sig-saia+subscribe@googlegroups.com](mailto:sig-saia+subscribe@googlegroups.com) from the address you wish to subscribe, then reply to the confirmation email.
+
+If you have already joined the Google Group, you don't need to join again.
 
 To leave, send a blank email to [sig-saia+unsubscribe@googlegroups.com](mailto:sig-saia+unsubscribe@googlegroups.com) or use the link at the bottom of any list email.
 
@@ -75,7 +79,7 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
 
 ## Upcoming events
  
-There are no upcoming events at the moment. New meet-ups are announced on the [mailing list](#join-the-mailing-list).
+There are no upcoming events at the moment. New meet-ups are announced on the [mailing list](https://groups.google.com/g/sig-saia/about).
  
 <!-- To add an event, replace the sentence above with a block like this one:
 <div class="event">
