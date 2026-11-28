@@ -47,21 +47,28 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
 ## Jobs
 
 <div class="job" data-closes="2026-12-08">
-  <h3>Postdoctoral Research Associate – Spatial Hearing and Machine Learning</h3>
-  <p class="job-meta">Queen Mary University of London. Closing date: 8 December 2026</p>
-  <p>A 36-month position working with Dr Aidan Hogg on the EPSRC-funded project <em>Spatial Hearing Augmentation to Improve Hearing Assistive Technology</em>, which investigates whether enhanced artificial spatial hearing cues can improve sound localisation, speech understanding in noise and situational awareness for people with hearing loss.</p>
-  <details>
-    <summary>Details</summary>
-    <ul>
-      <li><strong>Department:</strong> School of Electronic Engineering and Computer Science, Centre for Multimodal AI</li>
-      <li><strong>Contract:</strong> Full-time, fixed-term (36 months)</li>
-      <li><strong>Salary:</strong> £39,187–£47,550 per annum</li>
-      <li><strong>Reference:</strong> 11997</li>
-    </ul>
-    <p>The successful candidate will develop personalised head-related transfer function (HRTF) models, apply machine learning and auditory-model optimisation techniques, and design perceptual experiments to evaluate spatial hearing augmentation, in collaboration with Imperial College London and Eargym Ltd.</p>
-    <p>We are looking for candidates with a PhD (or close to completion), or equivalent research experience, in acoustics, audio signal processing, machine learning, hearing science or a related field. Experience with spatial audio, HRTFs, Python/MATLAB and machine learning is particularly relevant.</p>
-  </details>
-  <p class="job-apply"><a href="https://qmul-jobs.tal.net/vx/lang-en-GB/mobile-1/appcentre-1/brand-4/user-155681/candidate/so/pm/1/pl/3/opp/11997-Postdoctoral-Research-Associate/en-GB">Apply on the Queen Mary jobs site</a>. For informal enquiries, email <a href="mailto:a.hogg@qmul.ac.uk">a.hogg@qmul.ac.uk</a>.</p>
+  <div class="row">
+    <div class="col-sm-5 job-image">
+      <img src="/assets/img/HRTF_personalization.png" alt="A listener being aligned with laser guides for an HRTF measurement" class="img-fluid rounded" data-zoomable loading="lazy">
+    </div>
+    <div class="col-sm-7 job-body">
+      <h3>Postdoctoral Research Associate – Spatial Hearing and Machine Learning</h3>
+      <p class="job-meta">Queen Mary University of London. Closing date: 8 December 2026</p>
+      <p>A 36-month position working with Dr Aidan Hogg on the EPSRC-funded project <em>Spatial Hearing Augmentation to Improve Hearing Assistive Technology</em>, which investigates whether enhanced artificial spatial hearing cues can improve sound localisation, speech understanding in noise and situational awareness for people with hearing loss.</p>
+      <details>
+        <summary>Details</summary>
+        <ul>
+          <li><strong>Department:</strong> School of Electronic Engineering and Computer Science, Centre for Multimodal AI</li>
+          <li><strong>Contract:</strong> Full-time, fixed-term (36 months)</li>
+          <li><strong>Salary:</strong> £39,187–£47,550 per annum</li>
+          <li><strong>Reference:</strong> 11997</li>
+        </ul>
+        <p>The successful candidate will develop personalised head-related transfer function (HRTF) models, apply machine learning and auditory-model optimisation techniques, and design perceptual experiments to evaluate spatial hearing augmentation, in collaboration with Imperial College London and Eargym Ltd.</p>
+        <p>We are looking for candidates with a PhD (or close to completion), or equivalent research experience, in acoustics, audio signal processing, machine learning, hearing science or a related field. Experience with spatial audio, HRTFs, Python/MATLAB and machine learning is particularly relevant.</p>
+      </details>
+      <p class="job-apply"><a href="https://qmul-jobs.tal.net/vx/lang-en-GB/mobile-1/appcentre-1/brand-4/user-155681/candidate/so/pm/1/pl/3/opp/11997-Postdoctoral-Research-Associate/en-GB">Apply on the Queen Mary jobs site</a>. For informal enquiries, email <a href="mailto:a.hogg@qmul.ac.uk">a.hogg@qmul.ac.uk</a>.</p>
+    </div>
+  </div>
 </div>
 <p class="no-jobs" hidden>There are no open positions at the moment. New vacancies are announced on the mailing list.</p>
 
@@ -118,7 +125,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
   article h2 { margin-top: 2.25rem; margin-bottom: 0.75rem; }
   .meetup { margin-top: 2rem; }
   .meetup + .meetup { margin-top: 2.5rem; padding-top: 2.5rem; border-top: 1px solid var(--global-divider-color); }
-  .meetup-body, .event-body { margin-top: 1.25rem; }
+  .meetup-body, .event-body, .job-body { margin-top: 1.25rem; }
   .meetup-body h3 { font-size: 1.15rem; margin: 0 0 0.3rem; }
   .meetup-date { color: var(--global-text-color-light); margin-bottom: 0.9rem; }
   .meetup-text { margin-bottom: 1.1rem; }
@@ -136,11 +143,11 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
   .job details ul { margin: 0.9rem 0 0.5rem; }
   .job details li { margin-bottom: 0.45rem; }
   .job-apply, .event-register { margin: 1rem 0 0; }
-  .event-body p:last-child { margin-bottom: 0; }
+  .event-body p:last-child, .job-body p:last-child { margin-bottom: 0; }
   .meetup-photos img, .meetup-photos video { width: 100%; margin-bottom: 1.5rem; }
   @media (min-width: 576px) {
-    .meetup-image, .event-image { padding-right: 1.5rem; }
-    .meetup-body, .event-body { margin-top: 0; padding-left: 1.5rem; }
+    .meetup-image, .event-image, .job-image { padding-right: 1.5rem; }
+    .meetup-body, .event-body, .job-body { margin-top: 0; padding-left: 1.5rem; }
   }
 </style>
 
