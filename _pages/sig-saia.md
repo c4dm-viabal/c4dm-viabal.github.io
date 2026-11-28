@@ -170,7 +170,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
             <video src="/assets/img/Yamaha_2026_sound_xr.mp4" poster="/assets/img/Yamaha_2026_sound_xr_poster.jpg" controls preload="none" playsinline class="rounded" aria-label="Video of the How To Build An Orchestra installation at Yamaha Music London"></video>
           </div>
         </div>
-        <p class="meetup-credit">Some photos by Chin-Yun Yu.</p>
+        <p class="meetup-credit">Photos by Aidan Hogg and Chin-Yun Yu.</p>
       </details>
     </div>
   </div>
@@ -219,7 +219,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
             <img src="/assets/img/kef_2025_afternoon_talk.jpg" alt="A presentation during the afternoon session" class="img-fluid rounded" loading="lazy">
           </div>
         </div>
-        <p class="meetup-credit">Some photos by Chin-Yun Yu.</p>
+        <p class="meetup-credit">Photos by Aidan Hogg and Chin-Yun Yu.</p>
       </details>
     </div>
   </div>
@@ -283,7 +283,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
             <img src="/assets/img/20240510_163854-scaled.jpg" alt="Mixing desk in the Royal Opera House broadcast suite" class="img-fluid rounded" loading="lazy">
           </div>
         </div>
-        <p class="meetup-credit">Some photos by Chin-Yun Yu.</p>
+        <p class="meetup-credit">Photos by Aidan Hogg and Chin-Yun Yu.</p>
       </details>
     </div>
   </div>
