@@ -45,7 +45,7 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
 - [Dr Jacob Hollebon](https://www.linkedin.com/in/jakehollebon/), Audioscenic
 
 ## Jobs
- 
+
 <div class="job" data-closes="2026-12-08">
   <h3>Postdoctoral Research Associate – Spatial Hearing and Machine Learning</h3>
   <p class="job-meta">Queen Mary University of London. Closing date: 8 December 2026</p>
@@ -77,9 +77,9 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
 </script>
 
 ## Upcoming events
- 
+
 There are no upcoming events at the moment. New meet-ups are announced on the [mailing list](https://groups.google.com/g/sig-saia/about).
- 
+
 <!-- To add an event, replace the sentence above with a block like this one:
 <div class="event">
   <h3>Event title</h3>
@@ -120,7 +120,7 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
     .meetup-body { margin-top: 0; padding-left: 1.5rem; }
   }
 </style>
- 
+
 <div class="meetup">
   <div class="row">
     <div class="col-sm-5 meetup-image">
@@ -341,5 +341,5 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
       </details>
     </div>
   </div>
- 
+
 </div>
