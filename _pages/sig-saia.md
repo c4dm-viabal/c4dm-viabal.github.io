@@ -115,6 +115,15 @@ We run topic-focused meet-ups for members, a yearly workshop or showcase, and a 
   });
 </script>
 
+## Partner initiatives
+
+<div class="partner">
+  <h3>SPECk: the Spatial Ear Club</h3>
+  <p class="partner-meta">Run by the Audio Experience Design group at Imperial College London. Dates to be announced</p>
+  <p>A monthly seminar and discussion series on spatial acoustics, spatial hearing and immersive audio, inspired by Erv Hafter’s Ear Club at UC Berkeley. It’s an informal space for researchers at all career stages to share their work, and it welcomes ideas, work in progress and planned experiments as well as finished studies, so you can get feedback from the community before running a study.</p>
+  <p class="partner-links"><a href="https://www.axdesign.co.uk/spatial-ear-club">Find out more</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5NUkAmWjb1_ERUkDQtvc1Nw7GltYiSrMV6lgvAvoJnxjoog/viewform">sign up to present</a>.</p>
+</div>
+
 ## Past meet-ups
 
 Our in-person meet-ups combine short member talks with visits to labs, venues, and industry partners.
@@ -134,13 +143,13 @@ Our in-person meet-ups combine short member talks with visits to labs, venues, a
   .meetup details li.meetup-sub { list-style: none; margin: 0.9rem 0 0.45rem -1rem; font-weight: bold; }
   .meetup-credit { font-size: 0.9rem; color: var(--global-text-color-light); margin: 0.75rem 0 0.5rem; }
   .meetup-photos { margin-top: 0.9rem; }
-  .job, .event { border: 1px solid var(--global-divider-color); border-radius: 0.5rem; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
-  .job h3, .event h3 { font-size: 1.15rem; margin: 0 0 0.3rem; }
-  .job-meta, .event-meta { color: var(--global-text-color-light); margin-bottom: 0.9rem; }
+  .job, .event, .partner { border: 1px solid var(--global-divider-color); border-radius: 0.5rem; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
+  .job h3, .event h3, .partner h3 { font-size: 1.15rem; margin: 0 0 0.3rem; }
+  .job-meta, .event-meta, .partner-meta { color: var(--global-text-color-light); margin-bottom: 0.9rem; }
   .job summary { cursor: pointer; color: var(--global-theme-color); }
   .job details ul { margin: 0.9rem 0 0.5rem; }
   .job details li { margin-bottom: 0.45rem; }
-  .job-apply, .event-register { margin: 1rem 0 0; }
+  .job-apply, .event-register, .partner-links { margin: 1rem 0 0; }
   .event-body p:last-child, .job-body p:last-child { margin-bottom: 0; }
   .meetup-photos img, .meetup-photos video { width: 100%; margin-bottom: 1.5rem; }
   @media (min-width: 576px) {
